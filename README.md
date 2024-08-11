@@ -1,6 +1,6 @@
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bots,sqlite,neovim,rust,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,zsh,c,cpp,py,git,github,discord,bots,sqlite,neovim,rust,&perline=5)](https://skillicons.dev)
 --
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,unity,django,ai,arduino,java,cs,bash,linux&perline=5)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=photoshop,unity,js,vue,java,cpp,cs,kotlin,django,&perline=5)](https://skillicons.dev)
