@@ -8,7 +8,7 @@
 
 # GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=monokai&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maverik-io&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=monokai&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavenried&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mavenried&theme=monokai&noame=true&no-bg=false&margin-w=5)
