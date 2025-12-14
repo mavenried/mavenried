@@ -19,6 +19,7 @@ I work primarily on Linux and enjoy building stuff from scratch as a hobby.
 ![](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Bevy-000000?style=for-the-badge&logo=bevy&logoColor=white)
 ![](https://img.shields.io/badge/Slint-000000?style=for-the-badge&logo=slint&logoColor=white)
+![](https://img.shields.io/badge/Iced-000000?style=for-the-badge&logo=iced&logoColor=white)
 ![](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
 ![](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=leptos&logoColor=white)
 ![](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
