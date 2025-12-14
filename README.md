@@ -40,7 +40,7 @@ I work primarily on Linux and enjoy building stuff from scratch as a hobby.
 
 ## GitHub Stats
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mavenried&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" width="400"></a><br>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mavenried&show_icons=true&count_private=true&theme=dark&hide_border=true" width="400"></a><br>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=dark&hide_border=true" width="400"></a><br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavenried&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400"></a>
 </p>
