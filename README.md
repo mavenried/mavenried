@@ -1,6 +1,8 @@
-# Who am I?
-Im Joseph Chacko!
-# What I Use
+## Who am I?
+Systems-focused developer with interests in operating systems, low-level programming, and security.  
+I work primarily on Linux and enjoy building stuff from scratch as a hobby.
+
+## Stuff I Use
 ![](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=ZedIndustries&logoColor=white)
 <br>
@@ -13,7 +15,7 @@ Im Joseph Chacko!
 ![](https://img.shields.io/badge/raspberry_pi-000000?style=for-the-badge&logo=RaspberryPi&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 
-# Skills
+## My Skills
 ![](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Bevy-000000?style=for-the-badge&logo=bevy&logoColor=white)
 ![](https://img.shields.io/badge/Slint-000000?style=for-the-badge&logo=slint&logoColor=white)
@@ -35,10 +37,10 @@ Im Joseph Chacko!
 ![](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-# GitHub Stats:
+## GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=gruvbox&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavenried&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Badges
+## Random Badges
 ![](https://www.codewars.com/users/mavenried/badges/large)
