@@ -1,13 +1,44 @@
+# Who am I?
+Im Joseph Chacko!
+# What I Use
+![](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=ZedIndustries&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Arch%20(CachyOs)-000000?style=for-the-badge&logo=ArchLinux&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white)
+<br>
+![](https://img.shields.io/badge/raspberry_pi-000000?style=for-the-badge&logo=RaspberryPi&logoColor=white)
+![](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
+
+# Skills
+![](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Bevy-000000?style=for-the-badge&logo=bevy&logoColor=white)
+![](https://img.shields.io/badge/Slint-000000?style=for-the-badge&logo=slint&logoColor=white)
+![](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
+![](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=leptos&logoColor=white)
+![](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PyGame-000000?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Godot-333333?style=for-the-badge&logo=GodotEngine&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Web-333333?style=for-the-badge&logo=www&logoColor=white)
+![](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white)
+![](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 # GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=gruvbox&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavenried&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavenried&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mavenried&theme=gruvbox&noame=true&no-bg=false&margin-w=5)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
+# Badges
 ![](https://www.codewars.com/users/mavenried/badges/large)
