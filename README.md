@@ -4,6 +4,7 @@ I work primarily on Linux and enjoy building stuff from scratch as a hobby.
 
 ## Stuff I Use
 ![](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Helix-000000?style=for-the-badge&logo=helix&logoColor=white)
 ![](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=ZedIndustries&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
