@@ -1,15 +1,15 @@
 ## Who am I?
 Systems-focused developer with interests in operating systems, low-level programming, and security.  
 I work primarily on Linux and enjoy building stuff from scratch as a hobby.
+Oh, and im also a singer :)
 
 ## Stuff I Use
 ![](https://img.shields.io/badge/Editor-000000?style=for-the-badge&logo=neovim&logoColor=white&label=neovim&labelColor=333333&color=000000)
-![](https://img.shields.io/badge/Helix-000000?style=for-the-badge&logo=helix&logoColor=white)
-![](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=ZedIndustries&logoColor=white)
+![](https://img.shields.io/badge/Editor-000000?style=for-the-badge&logo=helix&logoColor=white&label=helix&labelColor=333333&color=000000)
+![](https://img.shields.io/badge/Editor-000000?style=for-the-badge&logo=zedindustries&logoColor=white&label=zed&labelColor=333333&color=000000)
 <br>
 ![](https://img.shields.io/badge/Os-000000?style=for-the-badge&logo=linux&logoColor=white&label=linux&labelColor=333333&color=000000)
 ![](https://img.shields.io/badge/Os-000000?style=for-the-badge&logo=archlinux&logoColor=white&label=Arch%20(CachyOs)&labelColor=333333&color=000000)
-
 <br>
 ![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Codeberg-000000?style=for-the-badge&logo=codeberg&logoColor=white)
