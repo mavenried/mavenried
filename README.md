@@ -1,7 +1,7 @@
 ## Who am I?
 Systems-focused developer with interests in operating systems, low-level programming, and security.  
 I work primarily on Linux and enjoy building stuff from scratch as a hobby.
-Oh, and im also a singer :)
+Oh, and I'm also a singer :)
 
 ## Stuff I Use
 ![](https://img.shields.io/badge/Editor-000000?style=for-the-badge&logo=neovim&logoColor=white&label=neovim&labelColor=333333&color=000000)
