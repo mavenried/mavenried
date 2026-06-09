@@ -25,6 +25,8 @@ Oh, and I'm also a singer :)
 ![](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
 ![](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=leptos&logoColor=white)
 ![](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
+![](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=tokio&logoColor=white)
+
 <br>
 ![](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PyGame-000000?style=for-the-badge&logo=python&logoColor=white)
