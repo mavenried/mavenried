@@ -39,6 +39,7 @@ Oh, and I'm also a singer :)
 ![](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## GitHub Stats
 <p align='center'>
