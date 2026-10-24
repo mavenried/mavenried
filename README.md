@@ -26,10 +26,14 @@ Oh, and I'm also a singer :)
 ![](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=leptos&logoColor=white)
 ![](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
 ![](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=tokio&logoColor=white)
+![](https://img.shields.io/badge/Gtk-000000?style=for-the-badge&logo=gtk&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PyGame-000000?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Godot-333333?style=for-the-badge&logo=GodotEngine&logoColor=white)
 <br>
@@ -40,6 +44,7 @@ Oh, and I'm also a singer :)
 ![](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## GitHub Stats
