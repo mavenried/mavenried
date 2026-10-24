@@ -1,7 +1,7 @@
 ## Who am I?
-Systems-focused developer with interests in operating systems, low-level programming, and security.  
-I work primarily on Linux and enjoy building stuff from scratch as a hobby.
-Oh, and I'm also a singer :)
+I'm a systems-focused developer interested in operating systems, low-level programming, and security. I mainly work with Rust on Linux, where I enjoy building tools and exploring how software works under the hood.
+
+Outside of coding, I'm also a singer :)
 
 ## Stuff I Use
 ![](https://img.shields.io/badge/Editor-000000?style=for-the-badge&logo=neovim&logoColor=white&label=neovim&labelColor=333333&color=000000)
@@ -47,11 +47,52 @@ Oh, and I'm also a singer :)
 ![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## GitHub Stats
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mavenried&show_icons=true&count_private=true&theme=dark&hide_border=true" width="400"></a><br>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=dark&hide_border=true" width="400"></a><br>
-  </p>
+## Selected Projects
 
-## Random Badges
-![](https://www.codewars.com/users/mavenried/badges/large)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mavenried/aurora">Aurora</a></h3>
+      <p>A Rust music player with a daemon/client architecture and multiple GUI frontends. I also use it to learn GUI frameworks such as GTK, Slint, and Iced.</p>
+      <sub>Rust · GTK · Slint · Iced</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mavenried/gnosis">Gnosis</a></h3>
+      <p>An EPUB reader and library manager built on Foliate, with folder scanning, author and series organization, and reading status tracking.</p>
+      <sub>JavaScript · GTK4 · libadwaita</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mavenried/atterm">atterm</a></h3>
+      <p>A terminal interface for communicating with IoT devices over UART, with AT command history and script playback.</p>
+      <sub>Rust · Ratatui · Serial</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mavenried/mcman">mcman</a></h3>
+      <p>A TUI console for Minecraft servers, with colored logs, command completion, and command history.</p>
+      <sub>Rust · Ratatui</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mavenried/excc">excc</a></h3>
+      <p>A small C expression compiler exploring abstract syntax trees and compiler fundamentals.</p>
+      <sub>C · Compilers</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mavenried/dvault">dvault</a></h3>
+      <p>A Rust tool for encrypting directories and storing them as vaults.</p>
+      <sub>Rust · Security</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>For my dotfiles, see <a href="https://github.com/mavenried/dotfiles">dotfiles</a>. For my shell setup, see <a href="https://github.com/mavenried/mavencore-shell">mavencore-shell</a> and <a href="https://github.com/mavenried/mavencore-rs">mavencore-rs</a>.</sub>
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mavenried&show_icons=true&count_private=true&theme=dark&hide_border=true" width="400" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=dark&hide_border=true" width="400" alt="GitHub streak">
+</p>
+
