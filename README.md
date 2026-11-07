@@ -92,7 +92,7 @@ Outside of coding, I'm also a singer :)
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mavenried&show_icons=true&count_private=true&theme=dark&hide_border=true" width="400" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=dark&hide_border=true" width="400" alt="GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=mavenried&show_icons=true&count_private=true&theme=dark&hide_border=true" width="400" alt="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavenried&theme=dark&hide_border=true" width="400" alt="">
 </p>
 
